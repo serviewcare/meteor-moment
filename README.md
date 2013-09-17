@@ -2,12 +2,10 @@
 
 [Moment.js](http://momentjs.com/), a JavaScript date library for parsing, validating, manipulating, and formatting dates, packaged for Meteor.
 
-Please note, this version is [hosted](https://atmosphere.meteor.com/package/moment-alternative) on [atmosphere](https://atmosphere.meteor.com/) as "moment-alternative" simply because the orignal "moment" meteorite package has not been updated for some time.
-
 Installation
 -------------
 
-`mrt add moment-alternative`
+`mrt add moment`
 
 Usage
 -------------
