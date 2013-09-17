@@ -11,4 +11,4 @@ Usage
 -------------
 Just like the [moment docs](http://momentjs.com/docs/) tell you:
 
-`var oneMonentPlease = moment()`
+`var oneMonentPlease = moment();`
